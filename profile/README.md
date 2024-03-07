@@ -1,4 +1,5 @@
-https://nearbuilders.com/
+Build DAO Gateway https://nearbuilders.org
+All NEAR Builderes Community https://nearbuilders.com/
 
 # 📍 Get Started
 - Join a Builder/Community Group Today
